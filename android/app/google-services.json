@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "844920342645",
+    "project_id": "popcorn-planet-e6bbf",
+    "storage_bucket": "popcorn-planet-e6bbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844920342645:android:af9aa1d43fa4db33ba503c",
+        "android_client_info": {
+          "package_name": "com.kazungudev.popcornplanet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844920342645-472u82ub59ejp0ldt7hhh65e6mmdn8g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kazungudev.popcornplanet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "844920342645-4lsvqcqpokitv4m2u7cik4j10vu3f9ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB6Zvq3U9DlHFk6T_ojvPTSdaOB2P9GoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844920342645-4lsvqcqpokitv4m2u7cik4j10vu3f9ja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844920342645-n7h58n0fq1brs0gdua80kubre8h498cn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazungudev.popcornplanet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
